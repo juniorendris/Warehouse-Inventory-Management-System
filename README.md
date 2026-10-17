@@ -5,9 +5,9 @@ A full-stack Warehouse Inventory Management System built with **Node.js**, **Exp
 This application allows users to manage warehouse products through a simple web interface and perform CRUD operations using a MySQL database.
 
 ---
-## 🚀 Live Demo
+## Live Demo
 
-👉 https://your-live-site-link.com
+https://your-live-site-link.com
 ## Features
 
 ### Product Management
